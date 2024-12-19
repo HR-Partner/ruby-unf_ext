@@ -1,3 +1,4 @@
+#include <cstring>
 #include "unf/normalizer.hh"
 
 #include <ruby.h>
